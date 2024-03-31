@@ -1,7 +1,10 @@
 깃과 깃허브 첫 실습
 
+폴더생성 > 파일작성 > 깃 init > 깃 commit > 깃헙 연동 > 깃헙 push
+
 # 깃 프로젝트 연습
 - 폴더 생성시 > C드라이브 직접 생성 (원드라이브 X)
+- 완전 초기화 하고 싶으면 .git 날리자.
 - 저장소 생성 후 "git init"
 - 사용자 등록 > CD명령어로 저장소 이동 > git config user.name "~~" 
 - 사용자 이메일 등록 > git config user.email "~~"
